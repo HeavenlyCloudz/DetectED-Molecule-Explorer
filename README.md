@@ -1,6 +1,6 @@
 # 🧬 DetectED Molecule Explorer
 
-An interactive cheminformatics teaching app built with **RDKit** and **Streamlit** for the **DetectED** nonprofit – making early disease detection and AI education accessible through hands-on molecular exploration.
+An interactive cheminformatics teaching app built with **RDKit** and **Streamlit** for **DetectED Labs**, an extension of DetectED. Our goal is to make early disease detection and AI education accessible, this time through hands-on molecular exploration!
 
 ---
 
@@ -36,7 +36,6 @@ This app is designed for classroom and workshop settings to teach:
 - Cheminformatics basics – SMILES notation, molecular representations
 - Drug discovery principles – Lipinski's Rule of 5 and drug‑likeness
 - Computational chemistry – Descriptors and property prediction
-- AI in healthcare – Connecting molecular properties to disease detection models
 - Critical thinking – Interpreting property data for drug design
 
 ## 🙏 Acknowledgements
