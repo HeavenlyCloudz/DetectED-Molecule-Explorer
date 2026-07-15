@@ -125,8 +125,8 @@ def random_molecule():
 st.set_page_config(page_title="DetectED Molecule Explorer", layout="wide")
 st.title("🧬 DetectED Molecule Explorer")
 st.markdown("*For teaching cheminformatics – early disease detection & AI*")
-st.sidebar.image("https://via.placeholder.com/150?text=DetectED", use_container_width=True)  # Replace with your logo
-st.sidebar.markdown("### 🎯 DetectED Nonprofit")
+st.sidebar.image("logo (1).png", use_container_width=True)  
+st.sidebar.markdown("### 🔍 DetectED Labs")
 
 # ------------------- Session state for history ------------
 if 'history' not in st.session_state:
