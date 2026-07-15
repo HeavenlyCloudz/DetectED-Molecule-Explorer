@@ -1,4 +1,4 @@
-name: detected-molecule-explorer
+name: detected-app
 channels:
   - conda-forge
   - defaults
