@@ -1,6 +1,6 @@
 # 🧬 DetectED Molecule Explorer
 
-An interactive cheminformatics teaching app built with **RDKit** and **Streamlit** for **DetectED Labs**, an extension of DetectED. Our goal is to make early disease detection and AI education accessible, this time through hands-on molecular exploration!
+An interactive cheminformatics teaching app built with **RDKit** and **Gradio** for **DetectED Labs**, an extension of DetectED. Our goal is to make early disease detection and AI education accessible, this time through hands-on molecular exploration!
 
 ---
 
