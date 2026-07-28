@@ -70,23 +70,58 @@ An interactive cheminformatics teaching app built with **RDKit**, **Streamlit**,
 ---
 
 ## ▶️ How to Use
--Input Method
+Input Method
   - Draw Structure – Use the Ketcher editor to draw your molecule visually
   - Type SMILES – Enter a SMILES string manually
   - Examples – Select from 10+ common drug molecules
   - Quick Actions – Use sidebar buttons for instant access
   - Random – Get a surprise molecule
 
+Exploration
+  - View the 2D structure and automatically fetched name
+  - Explore molecular properties with detailed tooltips
+  - Check Lipinski compliance and drug-likeness
+  - Toggle the 3D viewer for interactive exploration
+  - Compare against similar drugs in our database
+
+Export & Share
+  - Download 2D structure as PNG
+  - Export SMILES, SDF, or properties CSV
+  - Share SMILES strings with colleagues
+
+Educational Tools
+  - Test yourself with the interactive quiz
+  - Learn from fun facts and historical context
+  - Explore property explanations with tooltips
+  - Review viewing history for continued learning
+
+---
+
 ## 📚 Teaching Applications
 This app is designed for classroom and workshop settings to teach:
-- Cheminformatics basics – SMILES notation, molecular representations
-- Drug discovery principles – Lipinski's Rule of 5 and drug‑likeness
-- Computational chemistry – Descriptors and property prediction
-- Critical thinking – Interpreting property data for drug design
+- Cheminformatics Basics – SMILES notation, molecular representations, structure drawing
+- Drug Discovery Principles – Lipinski's Rule of 5, drug‑likeness assessment
+- Computational Chemistry – Descriptors and property prediction
+- Molecular Visualization – 2D and 3D structure exploration
+- Data Integration – Working with PubChem API and chemical databases
+- Critical Thinking – Interpreting property data for drug design
+
+---
+
+## 🎯 Classroom Activities
+- Drug Discovery Workshop – Use Lipinski's Rule to evaluate hypothetical drug candidates
+- Structure-Activity Relationships – Compare similar molecules and their properties
+- 3D Visualization – Explore molecular geometry and conformation
+- Quiz Challenges – Test student knowledge with built-in quiz mode
+- Research Projects – Export data for further analysis
+
+---
 
 ## 🙏 Acknowledgements
 - RDKit – Open‑source cheminformatics toolkit
-- Streamlit – Rapid web app development
-- PubChem – Chemical information database
-- DetectED – Nonprofit dedicated to teaching early disease detection and AI
+- Streamlit – Rapid web app development framework
+- Ketcher – Professional molecular structure editor
+- py3Dmol – 3D molecular visualization
+- PubChem – Chemical information database API
+- Pandas – Data handling and export
 
